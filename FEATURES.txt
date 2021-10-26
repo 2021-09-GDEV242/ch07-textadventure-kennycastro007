@@ -1,0 +1,18 @@
+Look command has been added
+
+C:
+Eat command has been added
+Command printing has been streamlined
+
+B:
+Added Items to ze game/Allowed Rooms to hold single items
+Allowed Rooms to hold multiple items
+implemented back command
+
+A:
+Implemented time limit
+health system
+Implement NPC with dialog
+
+Extra credit:
+Implemented locked doors and keys to open a locked door.
